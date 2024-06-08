@@ -56,12 +56,4 @@ button1.place(relx=0.5, rely=0.6, anchor=tkinter.CENTER)
 finish_label = customtkinter.CTkLabel(app,justify='center', text="",text_color="green")
 finish_label.place(rely=0.9, relx=0.5,anchor="center")
 
-
- 
-
-
-
-
-
-
 app.mainloop()
