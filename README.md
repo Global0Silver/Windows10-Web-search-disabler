@@ -4,3 +4,5 @@ So when you search for a file it cant find it doesnt show web results
 
 Requirements for gui.py
 > pip install customtkinter
+
+btw you can do this via windows settings
